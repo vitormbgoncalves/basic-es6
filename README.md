@@ -26,22 +26,22 @@ Este projeto disponibiliza uma aplicação desenvolvida com os recursos do ECMAS
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Yarn](https://yarnpkg.com/): gerenciador de pacotes para JavaScript.
-- [ECMAScript 6](https://262.ecma-international.org/6.0/): linguagem de script que forma a base do JavaScript.
-- [Babel](https://babeljs.io/): transcompilador de JavaScript usado para converter o código ECMAScript.
-- [Axios](https://axios-http.com/): HTTP cliente para JavaScript.
+- [Yarn](https://yarnpkg.com/): gerenciador de pacotes para JavaScript;
+- [ECMAScript 6](https://262.ecma-international.org/6.0/): linguagem de script que forma a base do JavaScript;
+- [Babel](https://babeljs.io/): transcompilador de JavaScript usado para converter o código ECMAScript;
+- [Axios](https://axios-http.com/): HTTP cliente para JavaScript;
 - [webpack](https://webpack.js.org/): empacotador de módulos para aplicações JavaScript.
 
 ## 💻 Execução
 
-1. Clone o projeto git através do terminal;
+1. Clone o projeto git através do terminal:
 
 ```shell
 git clone https://github.com/vitormbgoncalves/basic-es6.git
 cd basic-es6
 ```
 
-2. Para instalar todas dependências do projeto execute o comando abaixo;
+2. Para instalar todas dependências do projeto execute o comando abaixo:
 
 ```shell
 yarn
